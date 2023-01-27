@@ -3,11 +3,7 @@ body{
     font-size: 1.2rem;
 }
 
-a:link{
- color:#eff312;   
-}
-a:visited{
- color:#eff312;   
+
 }
 .grille{
     display: grid;
@@ -24,11 +20,9 @@ a:visited{
 
 .navbar a{
   color: black;
-  text-decoration: none;
   margin-right: 10px;
+  color:#eff312;   
 }
-
-
 .liens{
     grid-row-start: 0;
     grid-row-end: 1;
