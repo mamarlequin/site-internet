@@ -13,11 +13,11 @@ body{
   display: flex;
   justify-content: space-between;
   padding: 10px;
-  color: rgb(209, 178, 4);
+  color: rgb(146, 124, 0);
 }
 
 .navbar a{
-  color: rgb(209, 178, 4);
+  color: rgb(146, 124, 0);
   margin-right: 10px; 
 }
 .liens{
