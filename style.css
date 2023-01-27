@@ -8,6 +8,11 @@ header{
     text-align:center;
 }
 
+.grille{
+    display: grid;
+    grid-auto-rows: 10px;
+}
+
 .navbar{
   background-color: white;
   box-shadow: 0px 2px 3px #ccc;
@@ -20,4 +25,10 @@ header{
   color: black;
   text-decoration: none;
   margin-right: 10px;
+}
+
+
+.liens{
+    grid-row-start: 0;
+    grid-row-end: 1;
 }
