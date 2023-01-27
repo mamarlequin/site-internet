@@ -3,11 +3,9 @@ body{
     font-size: 1.2rem;
 }
 
-header{
-    height: 150px;
-    text-align:center;
+a{
+ color:#eff312;   
 }
-
 .grille{
     display: grid;
     grid-auto-rows: 10px;
