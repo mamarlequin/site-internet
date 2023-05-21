@@ -4,6 +4,12 @@ body{
 
 }
 
+.img_climat{
+    position: relative;
+    width: 50%;
+    left:25%;
+}
+
 .grille{
     display: grid;
     grid-auto-rows: 1vw;
@@ -14,6 +20,12 @@ body{
     left: 8%;
 }
 
+.ouistiti{
+    display: block;
+    position: relative;
+    width: 90%;
+}
+
 section{
     display: block;
     position: relative;
@@ -22,8 +34,8 @@ section{
 
 .pub{
     position:fixed;
-    width:20%;
-    left:80%;
+    width: 20%;
+    left:78%;
     top:11%;
 }
 
@@ -124,4 +136,3 @@ p{
     left:75%;
     font-size: 1.3vw;
 }
-
