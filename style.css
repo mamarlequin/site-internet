@@ -9,9 +9,32 @@ body{
     grid-auto-rows: 1vw;
 }
 
+.sous-titre{
+    position: relative;
+    left: 8%;
+}
+
+section{
+    display: block;
+    position: relative;
+    width: 70%;
+}
+
+.pub{
+    position:fixed;
+    width:20%;
+    left:80%;
+    top:11%;
+}
+
+.dévelopement{
+    position: relative;
+    left: 6%;
+}
+
 .navbar{
-  background-color: #0000;
-  box-shadow: 0px 2px 3px #ccc;
+  background-color: #ffffff;
+  box-shadow: -5px 6px 10px #9c9c9c;
   display: flex;
   justify-content: space-between;
   padding: 1.2vw;
@@ -43,7 +66,7 @@ h1{
 .introduction-2{
     position: relative;
     left: 10%;
-    display: inline-block;
+    display: inline;
 }
 
 p{
