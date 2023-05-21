@@ -91,11 +91,21 @@ p{
     left:75%;
 }
 
+
 .déco-2{
     position: absolute;
     top:24%;
     left:75%;
     font-size: 1.3vw;
+}
+
+.déco-2:hover{
+    color:#000000;
+    cursor: pointer;
+    top:25%;
+    left:76%;
+    text-shadow: -10px -10px 3px #c0c0c0;
+    font-size: 1.4vw;
 }
 
 .trait{
@@ -111,16 +121,20 @@ p{
     left:75%;
 }
 
-#gris:hover{
-    color:#808080;
-    cursor: pointer;
-}
-
 .déco-3{
     position: absolute;
     top:39%;
     left:75%;
     font-size: 1.3vw;
+}
+
+.déco-3:hover{
+    color:#000000;
+    cursor: pointer;
+    top:40%;
+    left:76%;
+    text-shadow: -10px -10px 3px #c0c0c0;
+    font-size: 1.4vw;
 }
 
 .trait-3{
@@ -135,4 +149,13 @@ p{
     top:54%;
     left:75%;
     font-size: 1.3vw;
+}
+
+.déco-4:hover{
+    color:#000000;
+    cursor: pointer;
+    top:55%;
+    left:76%;
+    text-shadow: -10px -10px 3px #c0c0c0;
+    font-size: 1.4vw;
 }
